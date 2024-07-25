@@ -1,6 +1,6 @@
-package model.entities;
+package learningExceptions.model.entities;
 
-import model.exceptions.DomainException;
+import learningExceptions.model.exceptions.DomainException;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

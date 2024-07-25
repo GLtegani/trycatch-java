@@ -1,4 +1,4 @@
-package model.exceptions;
+package learningExceptions.model.exceptions;
 
 public class DomainException extends Exception{
 

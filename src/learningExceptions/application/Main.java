@@ -1,9 +1,8 @@
-package application;
+package learningExceptions.application;
 
-import model.entities.Reservation;
-import model.exceptions.DomainException;
+import learningExceptions.model.entities.Reservation;
+import learningExceptions.model.exceptions.DomainException;
 
-import java.text.ParseException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
